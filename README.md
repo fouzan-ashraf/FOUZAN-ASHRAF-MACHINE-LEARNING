@@ -3,7 +3,7 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://2025ab05236-fouzan-ashraf.streamlit.app/)
 
 ## a. Problem Statement
-The objective of this assignment is to implement an end-to-end Machine Learning classification workflow. This involves:
+The objective of this experiment is to implement an end-to-end Machine Learning classification workflow. This involves:
 1.  Selecting a real-world classification dataset.
 2.  Implementing and training 6 different classification models (Logistic Regression, Decision Tree Classifier (DNN), K-Nearest Neighbor Classifier (KNN), Naive Bayes Classifier, Ensemble Model - Random Forest and Ensemble Model - XGBoost).
 3.  Evaluating models using standard metrics (Accuracy, Precision, Recall, F1 Score, AUC, MCC).
@@ -59,7 +59,7 @@ The objective of this assignment is to implement an end-to-end Machine Learning 
 ├── data.csv                
 ├── README.md          
 └── model/                  
-    ├── 2025ab05236_ml_assignment2.ipynb
+    ├── 2025ab05236_ml_execution.ipynb
     ├── scaler.pkl          
     ├── label_encoder.pkl 
     ├── evaluation_metrics.json  
@@ -80,8 +80,8 @@ The objective of this assignment is to implement an end-to-end Machine Learning 
 ### Steps to Build Locally:
 1. **Clone the GitHub repository**
    ```bash
-   git clone https://github.com/fouzan-ashraf/2025AB05236-FOUZAN-ASHRAF-MACHINE-LEARNING-ASSIGNMENT-2.git](https://github.com/fouzan-ashraf/2025AB05236-FOUZAN-ASHRAF-MACHINE-LEARNING-ASSIGNMENT-2.git
-   cd 2025AB05236-FOUZAN-ASHRAF-MACHINE-LEARNING-ASSIGNMENT-2
+   git clone https://github.com/fouzan-ashraf/FOUZAN-ASHRAF-MACHINE-LEARNING.git](https://github.com/fouzan-ashraf/FOUZAN-ASHRAF-MACHINE.git
+   cd FOUZAN-ASHRAF-MACHINE-LEARNING
    ```
 
 2. **Install dependencies**
@@ -107,7 +107,7 @@ The objective of this assignment is to implement an end-to-end Machine Learning 
 1. Go to https://streamlit.io/cloud
 2. Sign in using your GitHub account.
 3. Click “New App”.
-4. Select your repository (`fouzan-ashraf/2025AB05236-FOUZAN-ASHRAF-MACHINE-LEARNING-ASSIGNMENT-2` in this case).
+4. Select your repository (`fouzan-ashraf/FOUZAN-ASHRAF-MACHINE-LEARNING` in this case).
 5. Choose branch (`master` in this case).
 6. Select `app.py` as the main file path.
 7. Click Deploy.
