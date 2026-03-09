@@ -12,7 +12,7 @@ from sklearn.metrics import (accuracy_score, roc_auc_score, precision_score,
                              confusion_matrix, classification_report)
 
 # --- Page Configuration ---
-st.set_page_config(page_title="Machine Learning Assignment-2 : Fouzan Ashraf", layout="wide")
+st.set_page_config(page_title="Machine Learning: Fouzan Ashraf", layout="wide")
 
 # --- CUSTOM CSS FOR FULL-WIDTH TABS & HEADER ---
 st.markdown("""
@@ -63,7 +63,6 @@ st.markdown(f"""
     <div class="header-box">
         <div style="display: flex; justify-content: space-between;">
             <p class="header-text"><b>Name:</b> FOUZAN ASHRAF</p>
-            <p class="header-text"><b>BITS ID:</b> 2025AB05236</p>
             <p class="header-text"><b>Release Date:</b> 15-02-2026</p>
         </div>
     </div>
